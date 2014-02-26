@@ -28,7 +28,9 @@ It is web based. Just a browser will work fine.
 Installation Instruction
 =========================
 
-Does not need any installation.
+If you want to install this locally, copy the entire contents of
+`Codes/` to a directory your webserver can see. Then you can simply
+point your web browser at the appropriate URL.
 
 Bug
 ====
